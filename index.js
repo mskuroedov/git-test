@@ -1,1 +1,1 @@
-console.log('Tmp123123')
+console.log('Tmp123')
